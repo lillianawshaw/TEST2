@@ -1,3 +1,7 @@
 # TEST2
 
 Hello
+
+GIT STATUS
+GIT PUSH
+GIT COMMIT
